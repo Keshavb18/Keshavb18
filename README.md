@@ -1,11 +1,27 @@
 <h1 align="center">Hi 👋, I'm Keshav Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshavb18" alt="keshavb18" /></a> </p>
 
-- 👯 I’m looking to collaborate on [InfoWeb](https://vatszal.github.io/InfoWeb/)
+🌐 Aspiring to create seamless and engaging digital experiences, I specialize in front-end development with expertise in HTML, CSS, and JavaScript. I'm always eager to learn and adapt to the ever-evolving world of web technologies.
+
+💻 Currently, I'm honing my skills in Backend, and I'm open to collaboration on interesting projects. Let's build something amazing together!
+
+🔧 Tech Stack:
+   - Front-end: HTML, CSS, JavaScript (React.js, Vue.js)
+   - Back-end: Node.js, Express.js
+   - Database: MongoDB, MySQL
+   - Tools: Git, Webpack, VS Code
+
+🌱 Continuously learning and staying updated on the latest trends in web development, I believe in the power of clean code, responsive design, and user-friendly interfaces.
+
+🚀 Open to new opportunities and challenges. Let's connect and bring ideas to life! 💡
 
 - 👨‍💻 All of my projects are available at [https://keshavb18.github.io/Portfolio.github.io/index.html](https://keshavb18.github.io/Portfolio.github.io/index.html)
+
+- 📫 How to reach me **https://www.linkedin.com/in/keshav-bhardwaj-305676294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+
+  
+Happy coding! 👨‍💻✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
